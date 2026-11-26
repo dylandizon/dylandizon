@@ -1,7 +1,4 @@
-### Hi
-I'm an undergrad computer science student at the University of Calgary, currently interning at Canadian Natural Resources Limited (CNRL).
-
-**These are my projects**
+### Hi, this is my project portfolio
 
 - [API Load Testing Engine](https://github.com/dylandizon/api-load-testing-engine/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
 - [(In Progress) And-Tree Search Optimization Engine](https://github.com/dylandizon/and-tree-engine/) | _C++_
