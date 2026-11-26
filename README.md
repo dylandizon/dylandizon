@@ -8,4 +8,4 @@ I'm an undergrad computer science student at the University of Calgary, with a g
 
 For my experience, please visit my [LinkedIn](https://www.linkedin.com/in/dylandizon/)
 
-<img src="https://italicsmag.com/wp-content/uploads/2023/05/francesco-bianco-TVsgRyKJDc0-unsplash.jpg" width="400">
+<img src="https://italicsmag.com/wp-content/uploads/2023/05/francesco-bianco-TVsgRyKJDc0-unsplash.jpg" width="800">
