@@ -1,12 +1,12 @@
 ### Hi
-I'm an undergrad computer science student at the University of Calgary, with a growing interest in systems programming, distributed systems, and numerical computing.
+I'm an undergrad computer science student at the University of Calgary, currently interning at Canadian Natural Resources Limited (CNRL).
 
 **These are my projects**
 
 - [API Load Testing Engine](https://github.com/dylandizon/api-load-testing-engine/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
 - [(In Progress) And-Tree Search Optimization Engine](https://github.com/dylandizon/and-tree-engine/) | _C++_
 
-I like to build projects in systems programming, distributed systems, and numerical computing to make myself feel smart. Outside of these projects, I have experience working with computer vision, applied AI/ML, backend engineering, full-stack, CI/CD, and system design.
+As you can see, I enjoy building projects that relate to systems programming, distributed systems, and numerical computing. Outside of these projects, I have work experience in computer vision, applied AI/ML, backend engineering, full-stack, CI/CD, and system design.
 
 For my experience, please visit my [LinkedIn](https://www.linkedin.com/in/dylandizon/)
 
