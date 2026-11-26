@@ -6,7 +6,7 @@ I'm an undergrad computer science student at the University of Calgary, currentl
 - [API Load Testing Engine](https://github.com/dylandizon/api-load-testing-engine/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
 - [(In Progress) And-Tree Search Optimization Engine](https://github.com/dylandizon/and-tree-engine/) | _C++_
 
-As you can see, I enjoy building projects that relate to systems programming, distributed systems, and numerical computing. Outside of these projects, I have work experience in computer vision, applied AI/ML, backend engineering, full-stack, CI/CD, and system design.
+As you can see, I enjoy building projects that relate to systems programming, distributed systems, and numerical computing. Outside of these projects, I have work experience in computer vision, applied AI/ML, backend engineering, 3D development, full-stack, CI/CD, and system design.
 
 For my experience, please visit my [LinkedIn](https://www.linkedin.com/in/dylandizon/)
 
