@@ -5,12 +5,12 @@ I'm an undergrad computer science student at the University of Calgary, with a g
 - [(In Progress) And-Tree Search Optimization Engine](https://github.com/dylandizon/and-tree-engine/) | _C++_
 
 
-I like to make projects that make me feel smart 
+```
            __
           / _)
    .-^^^-/ /
 __/       /
 <__.|_|-|_|
-
+```
 ---
 [LinkedIn](https://www.linkedin.com/in/dylandizon/)
