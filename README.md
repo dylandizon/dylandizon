@@ -1,6 +1,6 @@
 ### Hi, this is my project portfolio
 
-- [SQL Query Optimizer (AND/OR-Tree Search Engine)](https://github.com/dylandizon/sql-optimizer/) | _C++_
+- [AND/OR-Tree SQL Query Optimization Engine](https://github.com/dylandizon/sql-optimizer/) | _C++_
 - [API Load Testing Engine](https://github.com/dylandizon/api-load-testing-engine/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
 
 I enjoy building projects that relate to systems programming, distributed systems, and numerical computing. Outside of these projects, I have work experience in computer vision, applied AI/ML, backend engineering, 3D development, full-stack, CI/CD, and system design.
