@@ -1,7 +1,7 @@
 ### Hi, this is my project portfolio
 
 - [SQL Query Optimization Engine](https://github.com/dylandizon/sql-optimizer/) | _C++20, CMake_
-- [API Load Testing Engine](https://github.com/dylandizon/api-load-testing-engine/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
+- [API Load Testing Engine](https://github.com/dylandizon/load-tester/) | _Go, gRPC, Protocol Buffers, PostgreSQL, Docker, Grafana_
 
 Lately, I've been interested in systems programming, distributed systems, and numerical computing.
 
